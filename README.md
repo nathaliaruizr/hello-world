@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Mi nombre es Nathalia Ruiz, estoy cursando la asignatura de Aplicaciones Móviles
